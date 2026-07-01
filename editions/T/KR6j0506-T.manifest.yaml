@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0506/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0506/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖歡喜天式法
+  identifiers:
+    krp: KR6j0506
+    cbeta: T21n1275
+    cbeta_old_id: T21n1275
+    authorityid: CA0002973
+    json_key: T1275
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1275.xml
+    old_id: T21n1275
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0506_000-T.yaml, hash: 'sha256:83acc38cdbe64e6d023abc954c29fc8f9be9e02ed50ae677fa645b8be32bbcf5'}
+  - {seq: 1, filename: KR6j0506_001-T.yaml, hash: 'sha256:a328ed86b9e8ccaa2edccce1e958c82957072bd08dc2b24df2e3e2d129428c21'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0506_000-T.markers.yaml, hash: 'sha256:43c6efc2e2873cb3b06c781079d6cc44717f36cb9557a2f69786947ea4c2f8af'}
+  - {seq: 1, role: markers, filename: assets/KR6j0506_001-T.markers.yaml, hash: 'sha256:86b762cd78d7d487b85ce0c213c6f83dacbdac389328949a8aa376ffaf31b50e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0506_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1768
+  label: 聖歡喜天式法
+  type: juan
+  level: 1
+hash: sha256:218adefad7502ae6401ccf428209d48ce07299af4522be4a0f58213a0b42aa5c
