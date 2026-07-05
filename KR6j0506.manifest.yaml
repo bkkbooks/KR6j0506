@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0506_000.yaml, hash: 'sha256:83acc38cdbe64e6d023abc954c29fc8f9be9e02ed50ae677fa645b8be32bbcf5'}
-  - {seq: 1, filename: KR6j0506_001.yaml, hash: 'sha256:053578616165489957df7b13314aef27400e5fdeb4f2b1a9cedbb27d2ba8f855'}
+  - {seq: 1, filename: KR6j0506_001.yaml, hash: 'sha256:a328ed86b9e8ccaa2edccce1e958c82957072bd08dc2b24df2e3e2d129428c21'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0506_001.markers.yaml, hash: 'sha256:0531d7b90512392cabbc30981d943a430553b42399d893f15ea9b7c8065b60dd'}
+  - {seq: 0, role: markers, filename: assets/KR6j0506_000.markers.yaml, hash: 'sha256:9aa78deb5cbc6a10e71f2e02644ea9d0919d474cde8bf37bd95b05dd38d14c34'}
+  - {seq: 1, role: markers, filename: assets/KR6j0506_001.markers.yaml, hash: 'sha256:86e76d6629f7d8ab635ff7984a7bfed26168d590eb7aa7905a2c493b07ee03f0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 聖歡喜天式法
   type: juan
   level: 1
-hash: sha256:6ecb348e1c98c50835012dcc8b7138807a5d1d3fc0c64f029ed1d54e46e8f010
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:58a915b563e614f51b88b421d303873e2a3ebf2f6d14884ddfffc6e589930f5f
 editions:
 - short: T
