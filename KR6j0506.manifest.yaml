@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0506/v1
 canonical_location: https://kanripo.org/bkk/KR6j0506/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 聖歡喜天式法
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0506_000.yaml, hash: 'sha256:83acc38cdbe64e6d023abc954c29fc8f9be9e02ed50ae677fa645b8be32bbcf5'}
-  - {seq: 1, filename: KR6j0506_001.yaml, hash: 'sha256:a328ed86b9e8ccaa2edccce1e958c82957072bd08dc2b24df2e3e2d129428c21'}
+  - {seq: 1, filename: KR6j0506_001.yaml, hash: 'sha256:cafd3595d1a87e3e28ec471e474910730e6f3f90b64ed180614f102a2861de39'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0506_000.markers.yaml, hash: 'sha256:9aa78deb5cbc6a10e71f2e02644ea9d0919d474cde8bf37bd95b05dd38d14c34'}
-  - {seq: 1, role: markers, filename: assets/KR6j0506_001.markers.yaml, hash: 'sha256:86e76d6629f7d8ab635ff7984a7bfed26168d590eb7aa7905a2c493b07ee03f0'}
+  - {seq: 1, role: markers, filename: assets/KR6j0506_001.markers.yaml, hash: 'sha256:261deb5625013ce820dccc082365933dbbbc15a3c9d00ac30c91ce1779edef7a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 聖歡喜天式法
   type: juan
   level: 1
-hash: sha256:58a915b563e614f51b88b421d303873e2a3ebf2f6d14884ddfffc6e589930f5f
+hash: sha256:248185960b023655de3f7e73da4ef79d34e134daa96fe3369cc56e38d096a4ea
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
